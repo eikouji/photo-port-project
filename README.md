@@ -1,3 +1,9 @@
+# Photo-Port React App #
+An app to teach me React.
+Features: 
+- components and conditionally rendered components
+- use and toggle a Modal component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
